@@ -22,7 +22,7 @@ Bharti Airtel, like any other company, may face several financial challenges in 
 ![Clean Minimalist Photo Collage Instagram Story (1)](https://github.com/Jgithub02/ANALYSIS-OF-FINANCIAL-PERFORMANCE-OF-BHARTI-AIRTEL/assets/164842901/9960adb3-9558-427f-b1fd-8499e2f08592)
 
 # CAPITAL STRUCTURE OF BHARTI AIRTEL:
-
+![capitalstr](https://github.com/Jgithub02/ANALYSIS-OF-FINANCIAL-PERFORMANCE-OF-BHARTI-AIRTEL/assets/164842901/193d38f1-9747-4b51-9393-7ae815961fc2)
 
 
 
