@@ -18,6 +18,8 @@ Bharti Airtel, like any other company, may face several financial challenges in 
 # BALANCE SHEET OF BHARTI AIRTEL:
 ![Beige Minimalist Collage Instagram Post](https://github.com/Jgithub02/ANALYSIS-OF-FINANCIAL-PERFORMANCE-OF-BHARTI-AIRTEL/assets/164842901/cb18362d-1bc4-4002-adf5-1248b202031e)
 
+# PROFIT AND LOSS STATEMENT OF BHARTI AIRTEL 
+
 
 
 
