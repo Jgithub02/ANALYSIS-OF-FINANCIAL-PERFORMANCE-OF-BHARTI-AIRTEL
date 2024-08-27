@@ -24,5 +24,30 @@ Bharti Airtel, like any other company, may face several financial challenges in 
 # CAPITAL STRUCTURE OF BHARTI AIRTEL:
 ![capitalstr](https://github.com/Jgithub02/ANALYSIS-OF-FINANCIAL-PERFORMANCE-OF-BHARTI-AIRTEL/assets/164842901/193d38f1-9747-4b51-9393-7ae815961fc2)
 
+# Financial Ratios:
+
+**Profitability Ratio:
+```
+1. Operating Profit Margin = PBIT/Sales*100
+2. Net Profit Margin = PAT/Sales*100
+3. Return On Capital Employed = (PBIT/(Sales+Networth))*100
+4. Return on Equity = PAT/Networth*100
+5. Earnings Per Share = PAT/No. of outstanding shares
+```
+**Turnover Ratio:
+```
+1. Total Asset turnover ratio =
+2. Fixed Assets turnover ratio
+3. Working Capital Ratio =
+4. Debtors Turnover Ratio =
+5. Average Collection Period =
+6. Inventory Turnover Ratio =
+7. Inventory Disposal Period =
+```
+
+
+
+
+
 
 
