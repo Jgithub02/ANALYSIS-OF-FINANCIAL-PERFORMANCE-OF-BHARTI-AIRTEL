@@ -81,6 +81,8 @@ Let's calculate the ROE (Return on Equity) using the DuPont analysis components 
 <br>
 ROE = (PAT/PBT) *(PBT/PBIT) *(PBIT/SALES) *(SALES/TOTAL ASSETS) *(TOTAL ASSETS/NETWORTH) = PAT/NETWORTH 
 
+![DuPont](https://github.com/user-attachments/assets/ab29b51f-2517-4777-abd4-06390dab2931)
+
 
 
 
