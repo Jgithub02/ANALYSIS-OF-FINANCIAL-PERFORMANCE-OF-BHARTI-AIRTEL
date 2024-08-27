@@ -36,16 +36,31 @@ Bharti Airtel, like any other company, may face several financial challenges in 
 ```
 **Turnover Ratio:
 ```
-1. Total Asset turnover ratio =
-2. Fixed Assets turnover ratio
-3. Working Capital Ratio =
-4. Debtors Turnover Ratio =
-5. Average Collection Period =
-6. Inventory Turnover Ratio =
-7. Inventory Disposal Period =
+1. Total Asset turnover ratio = Sales/Total Assets 
+2. Fixed Assets turnover ratio = Sales/Fixed Assets 
+3. Working Capital Ratio = Sales/Working Capital 
+4. Debtors Turnover Ratio = Sales/Debtors 
+5. Average Collection Period = (360/Sales)*Debtors
+6. Inventory Turnover Ratio = Cost of Goods Sold/Inventory
+7. Inventory Disposal Period = (360/Cost of Goods Sold)*Inventory
 ```
-
-
+**Liquidity Ratio:
+```
+1. Current Ratio = Current Assets/Current Liabilities 
+2. Liquid Ratio = (Current Assets-Inventory)/Current Liabilities 
+3. Cash Ratio =  (Current Assets-Inventory-Debtors)/Current Liabilities 
+```
+**Valuation Ratio: 
+```
+1. Payout Ratio = Dividend/PAT
+2. Retention Ratio = 1-(Dividend/PAT) 
+3. Book Value of Share = Networth/No. of Outstanding Shares 
+```
+**Leverage Ratio:
+```
+1. Debt Equity Ratio = Debt/Networth
+2. Debt Ratio = Debt/(Debt+PBDIT)
+```
 
 
 
