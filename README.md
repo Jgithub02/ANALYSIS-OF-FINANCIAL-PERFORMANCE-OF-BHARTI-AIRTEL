@@ -68,11 +68,17 @@ Bharti Airtel, like any other company, may face several financial challenges in 
 Using MS-Excel we find the above ratios for the company BHARTI AIRTEL. 
 # DuPont Analysis:
 (PAT/PBT) = Tax Burden
+<br>
 (PBT/PBIT) = Interest Burden
+<br>
 (PBIT/Sales) = Operating Profit Margin
+<br>
 (Sales/Total Assets) = Total Asset Turnover Ratio
+<br>
 (Total Assets/NetWorth) = Leverage Ratio
+<br>
 Let's calculate the ROE (Return on Equity) using the DuPont analysis components provided:
+<br>
 ROE = (PAT/PBT) *(PBT/PBIT) *(PBIT/SALES) *(SALES/TOTAL ASSETS) *(TOTAL ASSETS/NETWORTH) = PAT/NETWORTH 
 
 
