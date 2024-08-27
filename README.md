@@ -61,8 +61,11 @@ Bharti Airtel, like any other company, may face several financial challenges in 
 1. Debt Equity Ratio = Debt/Networth
 2. Debt Ratio = Debt/(Debt+PBDIT)
 ```
+# Let's do it in Excel: 
+![PAt](https://github.com/user-attachments/assets/e4fa95fa-4494-4bcc-b325-70979af7458a)
+![Financial ratio ](https://github.com/user-attachments/assets/09c128ca-4b4f-4d67-950f-31def3aa0b10)
 
-
+Using MS-Excel we find the above ratios for the company BHARTI AIRTEL. 
 
 
 
