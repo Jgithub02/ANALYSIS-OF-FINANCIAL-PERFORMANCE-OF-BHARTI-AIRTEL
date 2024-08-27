@@ -82,6 +82,46 @@ Let's calculate the ROE (Return on Equity) using the DuPont analysis components 
 ROE = (PAT/PBT) *(PBT/PBIT) *(PBIT/SALES) *(SALES/TOTAL ASSETS) *(TOTAL ASSETS/NETWORTH) = PAT/NETWORTH 
 
 ![DuPont](https://github.com/user-attachments/assets/ab29b51f-2517-4777-abd4-06390dab2931)
+# Calculating the ROE for each year
+1. Tax Burden:
+   - 2023: 0.7296
+   - 2022: 0.5847
+   - 2021: 3.6651
+   - 2020: 0.7200
+   - 2019: -0.6358
+3. Interest Burden:
+   - 2023: 3.6976
+   - 2022: 2.4081
+   - 2021: -0.3752
+   - 2020: 3.5716
+   - 2019: 0.6113
+4. Operating Profit Margin:
+   - 2023: 0.0307
+   - 2022: 0.0358
+   - 2021: 0.0888
+   - 2020: -0.1392
+   - 2019: -0.0423
+5. Total Asset Turnover Ratio:
+   - 2023: 0.5116
+   - 2022: 0.5183
+   - 2021: 0.4768
+   - 2020: 0.3984
+   - 2019: 0.3929
+6. Leverage Ratio:
+   - 2023: 2.9956
+   - 2022: 3.3784
+   - 2021: 3.5794
+   - 2020: 2.8485
+   - 2019: 2.8790
+# CONCLUSION: 
+- The ROE for 2023 seems to be a result of a relatively low tax burden, high-interest burden, modest operating profit margin, moderate asset turnover, and moderate leverage ratio.
+- In 2022, the ROE decreased compared to 2023, mainly due to a decrease in the interest burden and operating profit margin.
+- The ROE for 2021 is significantly impacted by the high tax burden and negative interest burden, resulting in a negative ROE.
+- In 2020, the ROE is also negative due to the negative operating profit margin.
+- The ROE for 2019 is negative, primarily due to negative tax and operating profit margins.
+
+Overall, the company's ROE fluctuates due to variations in tax burden, interest burden, operating profit margin, and other financial factors. Analysis of these components provides insights into the company's financial performance and areas that may require improvement.
+
 
 
 
